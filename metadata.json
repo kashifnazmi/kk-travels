@@ -1,0 +1,6 @@
+{
+  "name": "KK Travels",
+  "description": "Premium Tours & Travels booking platform featuring elegant domestic & international vacation packages and travel amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
